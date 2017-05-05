@@ -1,15 +1,17 @@
-# Django Fabric AWS
-### A Fabric script to manage a Django deployment on Amazon AWS
+# Django Fabric AWS Python3
+### A Fabric script to manage a Django deployment on Amazon AWS in Python3
 
+This project is a Python3 extension for [Django Fabric AWS](https://github.com/ashokfernandez/Django-Fabric-AWS)
 This fabfile along with the provided templates can spawn EC2 instances, install and configure a stateless Django stack on them (nginx + gunicorn with Amazon S3 for staticfiles). 
 
 Furthermore it can update your instances from a git repo stored on bitbucket [private repos are free on bitbucket so you can run private stuff on your server]
 
 ## Author
-[Ashok Fernandez](https://github.com/ashokfernandez/)
+[Ankit Agrawal](https://github.com/ankitmaverick/)
 
 ## Acknowledgements
-This was based on [Fabulous](https://github.com/gcollazo/Fabulous) by [Giovanni Collazo](https://github.com/gcollazo).
+[Django Fabric AWS](https://github.com/ashokfernandez/Django-Fabric-AWS)
+[Fabulous](https://github.com/gcollazo/Fabulous) by [Giovanni Collazo](https://github.com/gcollazo).
 
 
 ## Installation
