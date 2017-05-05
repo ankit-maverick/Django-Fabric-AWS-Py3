@@ -1,0 +1,5 @@
+Fabric3
+boto==2.46.1
+django-storages==1.5.2
+pycrypto==2.6.1
+ssh==1.8.0
