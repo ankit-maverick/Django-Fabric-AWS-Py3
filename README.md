@@ -11,7 +11,7 @@ Furthermore it can update your instances from a git repo stored on bitbucket [pr
 [Ankit Agrawal](https://github.com/ankitmaverick/)
 
 ## Acknowledgements
-[Django Fabric AWS](https://github.com/ashokfernandez/Django-Fabric-AWS)
+[Django Fabric AWS](https://github.com/ashokfernandez/Django-Fabric-AWS) by [Ashok Fernandez](https://github.com/ashokfernandez)
 [Fabulous](https://github.com/gcollazo/Fabulous) by [Giovanni Collazo](https://github.com/gcollazo).
 
 
